@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FAWSInkChicken
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Haxe Coding
+- 📫 How to reach me gunnar.ak.dudley@gmail.com
